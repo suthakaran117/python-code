@@ -1,0 +1,9 @@
+x=5
+y=6
+z=9
+if x>y and x>z:
+  print(x,'is the largest number')
+elif y>z:
+  print(y, 'is the largest number')
+else:
+  print('z is the largest number')
